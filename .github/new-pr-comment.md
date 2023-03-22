@@ -6,7 +6,7 @@ If you are new, please check out the trimmed down summary of the deployment proc
 1. ✔️ Obtain an approval/review on this pull request
 1. 🚀 Deploy your pull request to the **production** environment with `.deploy`
 
-    > If anything goes wrong, rollback with `.deploy main`
+   > If anything goes wrong, rollback with `.deploy main`
 
 1. 🎉 Merge!
 
